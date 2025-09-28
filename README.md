@@ -32,7 +32,7 @@ A responsive and modern homepage for a fictional **IELTS Institute** built with 
 git clone https://github.com/nithin-reddy9014/fictional-IELTS-Institute
 
 # 2. Go into the project folder
-cd homepage
+#cd homepage
 
 # 3. Install dependencies
 npm install
